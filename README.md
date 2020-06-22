@@ -13,4 +13,3 @@ Add the `.devcontainer` folder to your project and VS Code will automatically pr
 -   hlint
 -   ormolu
 -   implicit-hie
--   fish shell

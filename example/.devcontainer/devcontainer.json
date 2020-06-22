@@ -2,7 +2,7 @@
 	"name": "Haskell",
 	"dockerFile": "Dockerfile",
 	"settings": {
-		"terminal.integrated.shell.linux": "/usr/bin/fish",
+		"terminal.integrated.shell.linux": "/bin/bash",
 		"[haskell]": {
 			"editor.tabSize": 2,
 			"editor.insertSpaces": true
